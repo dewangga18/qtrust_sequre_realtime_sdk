@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                  = "QtrustDemoRealtimeSDK"
+  s.name                  = "QtrustSequreRealtimeSDK"
   s.version               = "1.0.0"
   s.summary               = "Sequre Realtime Scanner SDK framework."
   s.description           = "Sequre Realtime Scanner SDK for detecting QR codes."
@@ -30,4 +30,3 @@ Pod::Spec.new do |s|
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
 end
-QtrustSequreRealtimeSDK

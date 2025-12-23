@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.2.1 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
-// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 6 -enforce-exclusivity=checked -Osize -enable-upcoming-feature MemberImportVisibility -enable-experimental-feature DebugDescriptionMacro -module-name SequreRealtimeSDK
+// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 6 -enforce-exclusivity=unchecked -Osize -enable-upcoming-feature MemberImportVisibility -enable-experimental-feature DebugDescriptionMacro -module-name SequreRealtimeSDK
 // swift-module-flags-ignorable: -strict-memory-safety -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
 import AVFoundation
 import Combine
@@ -181,6 +181,7 @@ public func isSpecialCase() -> Swift.Bool
 public func getFocalLength() -> CoreFoundation.CGFloat
 public func getSensorSize() -> (width: CoreFoundation.CGFloat, height: CoreFoundation.CGFloat)
 public func getHyperParameter(isSquare: Swift.Bool, zoom: CoreFoundation.CGFloat) -> Swift.Float
+public func getInitialZoomFactor() -> CoreFoundation.CGFloat
 @_hasMissingDesignatedInitializers public actor QRDetectionHelper {
   public static let shared: SequreRealtimeSDK.QRDetectionHelper
   #if compiler(>=5.3) && $NonescapableTypes

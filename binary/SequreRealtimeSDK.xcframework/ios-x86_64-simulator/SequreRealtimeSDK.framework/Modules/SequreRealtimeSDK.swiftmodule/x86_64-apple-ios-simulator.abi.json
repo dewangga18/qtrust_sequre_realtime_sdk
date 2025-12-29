@@ -8091,190 +8091,36 @@
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "Array",
-      "offset": 611,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 690,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "StringLiteral",
-      "offset": 713,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
       "kind": "FloatLiteral",
-      "offset": 739,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "FloatLiteral",
-      "offset": 763,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 786,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 818,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "FloatLiteral",
-      "offset": 843,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "FloatLiteral",
-      "offset": 874,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 988,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1042,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1151,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1251,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1413,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "FloatLiteral",
-      "offset": 1449,
-      "length": 3,
-      "value": "6.5"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1487,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1933,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "FloatLiteral",
-      "offset": 3086,
+      "offset": 1513,
       "length": 4,
       "value": "50.0"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 3393,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3491,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3605,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3701,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3795,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5248,
+      "offset": 3176,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
       "kind": "StringLiteral",
-      "offset": 5319,
+      "offset": 3247,
       "length": 4,
       "value": "\"en\""
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 5392,
+      "offset": 3320,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
-      "offset": 5426,
+      "offset": 3354,
       "length": 5,
       "value": "false"
     },
@@ -8414,16 +8260,163 @@
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 789,
+      "offset": 793,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "Array",
+      "offset": 918,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 984,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 999,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 1017,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 1033,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1048,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 831,
+      "offset": 1072,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 1089,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 1112,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1155,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1205,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1252,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1294,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1341,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 1381,
+      "length": 3,
+      "value": "6.5"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1423,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1514,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1610,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1656,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1697,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1742,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1791,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
@@ -8512,70 +8505,63 @@
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1450,
+      "offset": 1451,
       "length": 3,
       "value": "5.0"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1547,
+      "offset": 1548,
       "length": 4,
       "value": "14.0"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4564,
+      "offset": 4740,
       "length": 33,
       "value": "\"No suitable camera device found\""
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5098,
+      "offset": 5274,
       "length": 47,
       "value": "\"Failed to create video device input: \""
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5144,
+      "offset": 5320,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5536,
+      "offset": 5712,
       "length": 12,
       "value": "\"videoQueue\""
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
       "kind": "Array",
-      "offset": 5607,
+      "offset": 5783,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5777,
+      "offset": 5953,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6008,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7618,
+      "offset": 7731,
       "length": 5,
       "value": "false"
     },

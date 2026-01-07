@@ -17,7 +17,6 @@ import Network
 @_exported import SequreRealtimeSDK
 import Swift
 import SwiftUI
-import TensorFlowLiteTaskVision
 import UIKit
 import Vision
 import WebKit
@@ -33,6 +32,52 @@ import _WebKit_SwiftUI
   nonisolated public var hashValue: Swift.Int {
     get
   }
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor final public class LocationMonitor : ObjectiveC.NSObject, Combine.ObservableObject, CoreLocation.CLLocationManagerDelegate {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @Combine.Published @_projectedValueProperty($latitude) @_Concurrency.MainActor final public var latitude: Swift.Double? {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor final public var $latitude: Combine.Published<Swift.Double?>.Publisher {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @Combine.Published @_projectedValueProperty($longitude) @_Concurrency.MainActor final public var longitude: Swift.Double? {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor final public var $longitude: Combine.Published<Swift.Double?>.Publisher {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @Combine.Published @_projectedValueProperty($authorizationStatus) @_Concurrency.MainActor final public var authorizationStatus: CoreLocation.CLAuthorizationStatus? {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor final public var $authorizationStatus: Combine.Published<CoreLocation.CLAuthorizationStatus?>.Publisher {
+    get
+  }
+  #endif
+  @Combine.Published @_projectedValueProperty($locationNotChecked) @_Concurrency.MainActor final public var locationNotChecked: Swift.Bool {
+    get
+  }
+  @_Concurrency.MainActor final public var $locationNotChecked: Combine.Published<Swift.Bool>.Publisher {
+    get
+  }
+  @_Concurrency.MainActor final public var onStatusChange: (@_Concurrency.MainActor @Sendable (CoreLocation.CLAuthorizationStatus) -> Swift.Void)?
+  @_Concurrency.MainActor @objc override dynamic public init()
+  @_Concurrency.MainActor final public func startMonitoring()
+  @_Concurrency.MainActor final public func stopMonitoring()
+  @objc nonisolated final public func locationManager(_ manager: CoreLocation.CLLocationManager, didUpdateLocations locations: [_LocationEssentials.CLLocation])
+  @objc nonisolated final public func locationManagerDidChangeAuthorization(_ manager: CoreLocation.CLLocationManager)
+  @objc deinit
+  public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
 }
 public struct DefaultLocationResponse : Swift.Codable, Swift.Sendable {
   public var location: SequreRealtimeSDK.DefaultLocation?
@@ -229,7 +274,7 @@ public func getInitialZoomFactor() -> CoreFoundation.CGFloat
   public func uploadFile<T>(url: Swift.String, fileData: Foundation.Data?, fileName: Swift.String, mimeType: Swift.String, parameters: [Swift.String : Swift.String]? = nil, responseType: T.Type) async throws -> T where T : Swift.Decodable, T : Swift.Sendable
   #endif
   #if compiler(>=5.3) && $NonescapableTypes
-  public func postRequest<T>(url: Swift.String, parameters: (any Swift.Encodable)? = nil, responseType: T.Type) async throws -> T where T : Swift.Decodable, T : Swift.Sendable
+  public func postRequest<T>(url: Swift.String, parameters: (any Swift.Encodable)? = nil, headers: [Swift.String : Swift.String]? = nil, responseType: T.Type) async throws -> T where T : Swift.Decodable, T : Swift.Sendable
   #endif
   @objc deinit
   @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
@@ -258,6 +303,7 @@ public func getInitialZoomFactor() -> CoreFoundation.CGFloat
 extension SequreRealtimeSDK.ClassificationEnv : Swift.Equatable {}
 extension SequreRealtimeSDK.ClassificationEnv : Swift.Hashable {}
 extension SequreRealtimeSDK.ClassificationEnv : Swift.Sendable {}
+extension SequreRealtimeSDK.LocationMonitor : Swift.Sendable {}
 extension SequreRealtimeSDK.QRScannerPage : Swift.Sendable {}
 extension SequreRealtimeSDK.DistanceResult : Swift.Equatable {}
 extension SequreRealtimeSDK.DistanceResult : Swift.Hashable {}

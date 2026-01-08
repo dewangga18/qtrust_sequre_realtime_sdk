@@ -8938,833 +8938,833 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Constant\/Constant.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 176,
       "length": 96,
       "value": "\"https:\/\/demo-staging-validation-362191430784.asia-southeast2.run.app\/copyproof_demo_validation\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Constant\/Constant.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 319,
       "length": 96,
       "value": "\"https:\/\/demo-staging-validation-362191430784.asia-southeast2.run.app\/copyproof_demo_validation\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Constant\/Constant.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 460,
       "length": 42,
       "value": "\"https:\/\/mobile.sequre.id\/v3\/sdk\/validate\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Constant\/Constant.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 547,
       "length": 43,
       "value": "\"https:\/\/smobile.sequre.id\/v3\/sdk\/validate\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Constant\/Constant.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 633,
       "length": 42,
       "value": "\"https:\/\/mobile.sequre.id\/v3\/check-device\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Constant\/Constant.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Constant\/Constant.swift",
       "kind": "StringLiteral",
       "offset": 718,
       "length": 43,
       "value": "\"https:\/\/smobile.sequre.id\/v3\/check-device\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Components\/GlareAlertComponent.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/Components\/GlareAlertComponent.swift",
       "kind": "BooleanLiteral",
       "offset": 303,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Monitors\/LocationMonitor.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Monitors\/LocationMonitor.swift",
       "kind": "BooleanLiteral",
       "offset": 853,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
       "kind": "FloatLiteral",
       "offset": 1578,
       "length": 4,
       "value": "50.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
       "offset": 3241,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
       "kind": "StringLiteral",
       "offset": 3312,
       "length": 4,
       "value": "\"en\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
       "offset": 3385,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/Page\/QRScannerPage.swift",
       "kind": "BooleanLiteral",
       "offset": 3419,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
       "kind": "Array",
       "offset": 353,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
       "kind": "FloatLiteral",
       "offset": 554,
       "length": 3,
       "value": "1.3"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
       "kind": "FloatLiteral",
       "offset": 638,
       "length": 3,
       "value": "1.3"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
       "kind": "FloatLiteral",
       "offset": 736,
       "length": 3,
       "value": "1.5"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
       "kind": "FloatLiteral",
       "offset": 787,
       "length": 3,
       "value": "1.7"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
       "kind": "BooleanLiteral",
       "offset": 1027,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
       "kind": "BooleanLiteral",
       "offset": 4620,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/UIView\/BoundingBoxView.swift",
       "kind": "BooleanLiteral",
       "offset": 7174,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/UIView\/LabelOverlay.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/UIView\/LabelOverlay.swift",
       "kind": "StringLiteral",
       "offset": 363,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/UIView\/ScanQROverlay.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/UIView\/ScanQROverlay.swift",
       "kind": "BooleanLiteral",
       "offset": 937,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/UIView\/ScanQROverlay.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/UIView\/ScanQROverlay.swift",
       "kind": "BooleanLiteral",
       "offset": 1014,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 422,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "StringLiteral",
       "offset": 375,
       "length": 17,
       "value": "\"useLensPosition\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 460,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 500,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 530,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 619,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 715,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 755,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 793,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "Array",
       "offset": 918,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 984,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "StringLiteral",
       "offset": 999,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "FloatLiteral",
       "offset": 1017,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "FloatLiteral",
       "offset": 1033,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1048,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1072,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "FloatLiteral",
       "offset": 1089,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "FloatLiteral",
       "offset": 1112,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1155,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1205,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1252,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1294,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1341,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "FloatLiteral",
       "offset": 1381,
       "length": 3,
       "value": "6.5"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1423,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1514,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1610,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1656,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1697,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1742,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1791,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SDKLogicScanViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1913,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1053,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1101,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1205,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1253,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1377,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1424,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1515,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1563,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Shared\/ViewModels\/SequreSDKRootViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1671,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/QRCameraFeedController.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/CameraStream\/QRCameraFeedController.swift",
       "kind": "BooleanLiteral",
       "offset": 415,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1524,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1621,
       "length": 4,
       "value": "14.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/CameraStream\/ViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 7330,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Extensions\/ToastExtension.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Extensions\/ToastExtension.swift",
       "kind": "IntegerLiteral",
       "offset": 670,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/BundleReference.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/BundleReference.swift",
       "kind": "StringLiteral",
       "offset": 343,
       "length": 25,
       "value": "\"SequreRealtimeSDKAssets\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/BundleReference.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/BundleReference.swift",
       "kind": "StringLiteral",
       "offset": 385,
       "length": 8,
       "value": "\"bundle\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/BundleReference.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/BundleReference.swift",
       "kind": "StringLiteral",
       "offset": 2417,
       "length": 30,
       "value": "\"SequreRealtimeSDKLocalizable\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/DistanceDetector.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/DistanceDetector.swift",
       "kind": "FloatLiteral",
       "offset": 564,
       "length": 4,
       "value": "0.75"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/DistanceDetector.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/DistanceDetector.swift",
       "kind": "FloatLiteral",
       "offset": 616,
       "length": 4,
       "value": "0.67"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/DistanceDetector.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/DistanceDetector.swift",
       "kind": "FloatLiteral",
       "offset": 836,
       "length": 3,
       "value": "2.1"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/DistanceDetector.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/DistanceDetector.swift",
       "kind": "FloatLiteral",
       "offset": 880,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/DistanceDetector.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/DistanceDetector.swift",
       "kind": "IntegerLiteral",
       "offset": 920,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/ExpectedDistanceCalculator.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/ExpectedDistanceCalculator.swift",
       "kind": "FloatLiteral",
       "offset": 1363,
       "length": 4,
       "value": "20.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/ExpectedDistanceCalculator.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/ExpectedDistanceCalculator.swift",
       "kind": "FloatLiteral",
       "offset": 1865,
       "length": 3,
       "value": "8.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/ExpectedDistanceCalculator.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/ExpectedDistanceCalculator.swift",
       "kind": "FloatLiteral",
       "offset": 1900,
       "length": 4,
       "value": "30.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/ImageOperation.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/ImageOperation.swift",
       "kind": "IntegerLiteral",
       "offset": 1376,
       "length": 3,
       "value": "400"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/ImageOperation.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/ImageOperation.swift",
       "kind": "FloatLiteral",
       "offset": 2937,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/ImageOperation.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/ImageOperation.swift",
       "kind": "StringLiteral",
       "offset": 3387,
       "length": 6,
       "value": "\"jpeg\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/ImageOperation.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/ImageOperation.swift",
       "kind": "BooleanLiteral",
       "offset": 4651,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/ModelDeobfuscator.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/ModelDeobfuscator.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 31,
       "value": "\"SequreRealtimeSDK2025ModelKey\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
       "kind": "FloatLiteral",
       "offset": 614,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
       "kind": "StringLiteral",
       "offset": 914,
       "length": 14,
       "value": "\"sequre-v2-od\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
       "kind": "StringLiteral",
       "offset": 938,
       "length": 8,
       "value": "\"tflite\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
       "kind": "StringLiteral",
       "offset": 1080,
       "length": 14,
       "value": "\"sequre-v2-od\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
       "kind": "StringLiteral",
       "offset": 1223,
       "length": 17,
       "value": "\"Model not found\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 1387,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
       "kind": "FloatLiteral",
       "offset": 1443,
       "length": 4,
       "value": "0.23"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
       "kind": "StringLiteral",
       "offset": 1687,
       "length": 68,
       "value": "\"Failed to initialize ObjectDetector: \""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Functions\/QRDetectionHelper.swift",
       "kind": "StringLiteral",
       "offset": 1754,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Monitors\/NetworkStatusMonitor.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Monitors\/NetworkStatusMonitor.swift",
       "kind": "BooleanLiteral",
       "offset": 414,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Monitors\/NetworkStatusMonitor.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Monitors\/NetworkStatusMonitor.swift",
       "kind": "StringLiteral",
       "offset": 797,
       "length": 16,
       "value": "\"networkmonitor\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Sendables\/RegistrationState.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Sendables\/RegistrationState.swift",
       "kind": "BooleanLiteral",
       "offset": 288,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Services\/MultipartRequest.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Services\/MultipartRequest.swift",
       "kind": "StringLiteral",
       "offset": 584,
       "length": 6,
       "value": "\"\r\n\""
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Services\/NetworkServices.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Services\/NetworkServices.swift",
       "kind": "FloatLiteral",
       "offset": 504,
       "length": 4,
       "value": "15.0"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/Utils\/Services\/NetworkServices.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/Utils\/Services\/NetworkServices.swift",
       "kind": "BooleanLiteral",
       "offset": 554,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK\/SequreRealtimeSDK\/SequreRealtimeSDKInstance.swift",
+      "filePath": "\/Users\/admin\/Documents\/SequreRealtimeSDK-source-ios\/SequreRealtimeSDK\/SequreRealtimeSDKInstance.swift",
       "kind": "BooleanLiteral",
       "offset": 506,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 630,
       "length": 13,
       "value": "\"Color003A6F\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 775,
       "length": 13,
       "value": "\"Color232333\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 920,
       "length": 13,
       "value": "\"Color3E405F\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1065,
       "length": 13,
       "value": "\"Color474755\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1210,
       "length": 13,
       "value": "\"Color484848\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1355,
       "length": 13,
       "value": "\"Color4A4A4A\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1500,
       "length": 13,
       "value": "\"Color808095\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1643,
       "length": 12,
       "value": "\"PrimaryApp\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1787,
       "length": 13,
       "value": "\"Quarternary\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2041,
       "length": 15,
       "value": "\"IconArrowBack\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2202,
       "length": 20,
       "value": "\"IconArrowBackBlack\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2362,
       "length": 17,
       "value": "\"IconFlashActive\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2529,
       "length": 22,
       "value": "\"IconFlashActiveBlack\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2695,
       "length": 19,
       "value": "\"IconFlashInactive\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2868,
       "length": 24,
       "value": "\"IconFlashInactiveBlack\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3024,
       "length": 13,
       "value": "\"Unsupported\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-hjepijvaqjwkcxawxzlgcdigzojr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/SequreRealtimeSDK-dojqazlfqhzidgbvsrfabevbjtpz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SequreRealtimeSDK\/IntermediateBuildFilesPath\/SequreRealtimeSDK.build\/Release-iphoneos\/SequreRealtimeSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3179,
       "length": 18,
